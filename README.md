@@ -47,7 +47,36 @@ A5+S0'.S1.S2 .A6+S0.S1.S3.A7
 ## Whenever the test cases are :
 ![5 1](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/594d5116-b86d-4d84-9e53-b00712f5b777)
 
+Input power :
+Input power = voltage * current 
+ = 21.7E-6 W
 
+![6](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/0f0d41b8-c780-4985-9725-e637d8d4e74e)
+
+## IMPLEMENTATION OF 8:1 MUX USING DYNAMIC COMOS LOGIC:
+
+![7](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/c978153c-c962-410a-ba1b-c7dc97c3b7af)
+
+## DYNAMIC CMOS(PULL DOWN) logic:
+
+![8](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/e001ae30-891d-459d-bc85-97f8526454cc)
+
+
+dynamic logic is less low-power consuming and have high speed than static 
+logic. In particular, dynamic CMOS gates are supposed to be more 
+advantageous than static ones mainly because of a total absence of output 
+glitching and a reduced parasitic capacitance.
+Observation :
+Compare to static cmos logic dynamic cmos logic is better in terms of 
+Area and power and also delay.
+Number of transistors in static cmos logic : 2ip-not_gate =3*2=6
+ 4ip_AND_gate=8*8=64
+ 8in_OR_gate= 16*1=16
+ Total = 86 transistors
+Number of transistors in dynamic cmos logic : 2ip-not_gate =3*3=6
+ 4ip_AND_gate=8*6=48
+ 8in_OR_gate= 16*1=10
+ Total = 64 transistors
 
 
 
