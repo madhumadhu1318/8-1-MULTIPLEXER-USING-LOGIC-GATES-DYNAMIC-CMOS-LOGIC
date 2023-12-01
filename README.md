@@ -42,6 +42,12 @@ A5+S0'.S1.S2 .A6+S0.S1.S3.A7
 
 ## TIMING DIAGRAM:
 
+![4 4](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/2772867a-6a40-4dc2-be22-515eefb243e5)
+
+## Whenever the test cases are :
+![5 1](https://github.com/madhumadhu1318/8-1-MULTIPLEXER-USING-LOGIC-GATES-DYNAMIC-CMOS-LOGIC/assets/90201844/594d5116-b86d-4d84-9e53-b00712f5b777)
+
+
 
 
 
